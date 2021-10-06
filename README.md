@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Manishgupta200
 - 👀 I’m interested in WebDeveloping
-- 🌱 I’m currently learning HTML, CSS, JS, Jquery & C.
+- 🌱 I’m currently learning HTML, CSS, JS, Jquery, C & java.
 - 💞️ I’m looking to collaborate on GIT
 - 📫 How to reach me email: guptamanis27@gmail.com
 <!---
