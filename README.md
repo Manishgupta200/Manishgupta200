@@ -13,8 +13,8 @@
 - 👀 I’m interested in WebDeveloping, AppDevelopment & CloudComputing
 - 🌱 I’m currently learning HTML, CSS, JS, Jquery, C & java mostly.
 - 💞️ I’m looking to collaborate on with other content creators & on GIT
-- ⚡ Fun fact: I love to explore things
-- 📫 Reach me with email: guptamanis27@gmail.com
+- ⚡ Fun fact: I love to explore things much better
+- 📫 Reach me through email: guptamanis27@gmail.com
 
 <br />
 
