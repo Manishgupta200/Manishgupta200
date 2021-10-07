@@ -85,7 +85,7 @@ You can click the Preview link to take a look at your changes.
 <details>
  <summary>:zap: Most Used Languages</summary>
    
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manishgupta200)](https://github.com/Manishgupta200/github-readme-stats)
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manishgupta200)
 
 
 </details>
