@@ -1,5 +1,9 @@
  ### Hi, I’m [@Manishgupta200][website] 👋
  
+
+
+
+ 
  [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
@@ -17,8 +21,10 @@ You can click the Preview link to take a look at your changes.
 
 <a href="https://www.qwiklabs.com/public_profiles/304a8a68-9721-4e2d-ba07-7e80f631d4d4"><img align="left" width="30px" src="https://i.ibb.co/z25P1cF/qwiklab.png" alt="qwiklab" border="0"></a>
 <a href="https://i.ibb.co/x8JWkCh/0001.jpg"><img align="left" width="100px" src="https://i.ibb.co/dLCHb77/Png-Item-145271.png" alt="Png-Item-145271" border="0"></a>
+<a href="https://i.ibb.co/1f58ZHz/GCP.jpg"><img align="left" width="70px" src="https://i.ibb.co/2NDQmZd/pngfind-com-google-logo-png-2017-4909861.png" alt="pngfind-com-google-logo-png-2017-4909861" border="0"></a>
 
-</br>
+
+</br></br>
 
 ### Connect with me:
 [<img align="left" width="30px" src="https://i.ibb.co/s18GvTt/youtube-logo-png-2067.png" alt="youtube" border="0">][youtube]
@@ -70,8 +76,17 @@ You can click the Preview link to take a look at your changes.
 
 <details>
   <summary>:zap: GitHub Stats</summary>
+ 
+   ![Manish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manishgupta200&show_icons=true&theme=radical)
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+
+</details>
+
+<details>
+ <summary>:zap: Most Used Languages</summary>
+   
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manishgupta200)](https://github.com/anuraghazra/github-readme-stats)
+
 
 </details>
 
