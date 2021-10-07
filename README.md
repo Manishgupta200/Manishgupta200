@@ -20,33 +20,43 @@ You can click the Preview link to take a look at your changes.
 <a href="https://i.ibb.co/1f58ZHz/GCP.jpg"><img align="left" width="70px" src="https://i.ibb.co/2NDQmZd/pngfind-com-google-logo-png-2017-4909861.png" alt="pngfind-com-google-logo-png-2017-4909861" border="0"></a>
 
 
-</br></br>
-
-### Connect with me:
-[<img align="left" width="30px" src="https://i.ibb.co/s18GvTt/youtube-logo-png-2067.png" alt="youtube" border="0">][youtube]
-[<img align="left" width="30px" src="https://i.ibb.co/qd6ZdcR/gmail-ge5e92c154-1280.png" alt="gmail" border="0">][gmail]
-[<img align="left" width="30px" src="https://i.ibb.co/mSgFPNg/facebook-gb2bbebe4d-1280.png" alt="facebook" border="0">][facebook]
-[<img align="left" width="30px" src="https://i.ibb.co/bzdPqsb/linked-in-g6d7a534e7-1280.png" alt="linked-in" border="0">][linkedin]
-[<img align="left" width="30px" src="https://i.ibb.co/XY8TmXg/twitter-gf2294f085-1280.png" alt="twitter" border="0">][twitter]
-[<img align="left" width="30px" src="https://i.ibb.co/ySmMQmr/instagram-g6b5f5ffc2-1280.png" alt="instagram" border="0">][instagram]
-[<img align="left" width="30px" src="https://i.ibb.co/fYRyztK/github-gde12c88fc-1920.jpg" alt="github" border="0">][github]
 
 <br />
 
 ### Languages and Tools:
 
-<a href="https://console.cloud.google.com/home/dashboard?project=global-gist-316716&pli=1"><img align="left" width="40px" src="https://i.ibb.co/zbdRYLk/google-cloud.png" alt="google-cloud" border="0"></a>
-<a href="https://code.visualstudio.com/"><img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></a>
-<a href="https://sass-lang.com/"><img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" /></a>
-<a href="https://www.javascript.com/"><img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></a>
-<a href="https://reactjs.org/"><img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /></a>
-<a href="https://git-scm.com/"><img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /></a>
-<a href="https://www.mysql.com/"><img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" /></a>
+<p align="left"> 
+    <a href="https://console.cloud.google.com/home/dashboard?project=global-gist-316716&pli=1" target="_blank"><img width="50px" src="https://i.ibb.co/zbdRYLk/google-cloud.png" alt="google-cloud" border="0"></a>
+ <a href="https://sass-lang.com/"><img alt="Sass" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"  /></a>
+    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
+    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png" /> </a>
+    <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> </a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
+    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
+    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
+    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
+    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
+    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
+    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a> 
+    <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="48" height="48"/> </a> 
+    <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
+ <a href="https://code.visualstudio.com/"><img alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></a>
+ <a href="https://reactjs.org/"><img alt="React" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /></a>
+</p>
 
 <br />
 <br />
 
 ---
+<p align="center">
+    <a href="https://github.com/Manishgupta200/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Manish Gupta's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Manishgupta200&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
@@ -74,8 +84,19 @@ You can click the Preview link to take a look at your changes.
    
    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manishgupta200)
 
-
 </details>
+
+</br>
+
+### Connect with me:
+[<img align="left" width="35px" src="https://i.ibb.co/s18GvTt/youtube-logo-png-2067.png" alt="youtube" border="0">][youtube]
+[<img align="left" width="35px" src="https://i.ibb.co/qd6ZdcR/gmail-ge5e92c154-1280.png" alt="gmail" border="0">][gmail]
+[<img align="left" width="30px" src="https://i.ibb.co/mSgFPNg/facebook-gb2bbebe4d-1280.png" alt="facebook" border="0">][facebook]
+[<img align="left" width="30px" src="https://i.ibb.co/bzdPqsb/linked-in-g6d7a534e7-1280.png" alt="linked-in" border="0">][linkedin]
+[<img align="left" width="30px" src="https://i.ibb.co/XY8TmXg/twitter-gf2294f085-1280.png" alt="twitter" border="0">][twitter]
+[<img align="left" width="30px" src="https://i.ibb.co/ySmMQmr/instagram-g6b5f5ffc2-1280.png" alt="instagram" border="0">][instagram]
+[<img align="left" width="30px" src="https://i.ibb.co/fYRyztK/github-gde12c88fc-1920.jpg" alt="github" border="0">][github]
+
 
 [youtube]: https://youtube.com
 [gmail]: https://gmail.com
