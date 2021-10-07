@@ -3,6 +3,12 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Manish Gupta</h1>
 
+<p align="center"><a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img width="150px" src="https://komarev.com/ghpvc/?username=Manishgupta200">
+</a>
+<a href="https://github.com/Manishgupta200?tab=followers"><img width="150px" src="https://img.shields.io/github/followers/Manishgupta200?label=Followers&style=social" alt="GitHub Badge"></a>
+</p>
+
 ## 🙋‍♂️ I'm a Student
 - 👀 I’m interested in WebDeveloping, AppDevelopment & CloudComputing
 - 🌱 I’m currently learning HTML, CSS, JS, Jquery, C & java mostly.
@@ -39,7 +45,6 @@
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img width="40px" src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
     <a href="https://www.mongodb.com/" target="_blank"> <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
     <a href="https://firebase.google.com/" target="_blank"> <img width="35px" src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
-    <a href="https://postman.com" target="_blank"> <img width="35px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a> 
     <a href="https://www.jenkins.io" target="_blank"> <img width="35px" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="48" height="48"/> </a> 
     <a href="https://redux.js.org" target="_blank"> <img width="35px" src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
  <a href="https://code.visualstudio.com/"><img alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></a>
@@ -99,6 +104,7 @@
 [<img align="left" width="30px" src="https://i.ibb.co/fYRyztK/github-gde12c88fc-1920.jpg" alt="github" border="0">][github]
 
 
+
 [youtube]: https://youtube.com
 [gmail]: https://gmail.com
 [facebook]: https://facebook.com
@@ -106,10 +112,3 @@
 [twitter]: https://twitter.com
 [instagram]: https://instagram.com
 [github]: https://github.com
- 
-[website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
