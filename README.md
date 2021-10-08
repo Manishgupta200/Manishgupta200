@@ -114,12 +114,15 @@ or skill level.
 <br />
 <br />
 
+<!-- PROGRAMMING LEARNING PLATFORM -->
 ### Learning Platform:
 <a href="https://geeksforgeeks.org"><img align="left" src="https://i.ibb.co/4TYWVBP/icons8-geeksforgeeks-48.png" alt="icons8-geeksforgeeks-48" border="0"></a>
 <a href="https://www.hackerearth.com"><img align="left" width="35px" src="https://i.ibb.co/ZBKnFQ3/hackerearth.png" alt="hackerearth" border="0"></a>
 <a href="https://www.hackerrank.com"><img align="left" width="35px" src="https://i.ibb.co/vQQbcSz/hackerrank.png" alt="hackerrank" border="0"></a>
 <a href="https://www.udemy.com"><img align="left" width="35px" src="https://i.ibb.co/5B70rGq/udemy.png" alt="udemy" border="0"></a>
-<a href="https://www.w3schools.com"><img width="35px" src="https://i.ibb.co/WtMTCJn/w3school.png" alt="w3school" border="0"></a>
+<a href="https://www.w3schools.com"><img align="left" width="35px" src="https://i.ibb.co/WtMTCJn/w3school.png" alt="w3school" border="0"></a>
+<a href="https://www.microsoft.com/en-in/campaign/azuredeveloperleague/#formMain"><img align="left" width="40px" src="https://i.ibb.co/k2HgSy3/azure.png" alt="azure" border="0"></a>
+<a href="https://ibb.co/7zrY88s"><img width="120px" src="https://i.ibb.co/pP40GGY/codechef.png" alt="codechef" border="0"></a>
 
 <br />
 
