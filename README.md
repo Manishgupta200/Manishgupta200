@@ -10,6 +10,9 @@
             alt="GitHub Badge"></a>
 </p>
 
+<!-- BIG IMAGE -->
+<p align="center"><img src="http://i.stack.imgur.com/SBv4T.gif" alt="this slowpoke moves"  width="250" /></p>
+
 <!-- ABOUT ME -->
 ## 🙋‍♂️ I'm a Student
 - ✨ I'm currently studing in B.TECH, Electrical Engineering
