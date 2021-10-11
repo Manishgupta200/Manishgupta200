@@ -126,7 +126,7 @@ or skill level.
 <a href="https://www.udemy.com"><img align="left" width="35px" src="https://i.ibb.co/5B70rGq/udemy.png" alt="udemy" border="0"></a>
 <a href="https://www.w3schools.com"><img align="left" width="35px" src="https://i.ibb.co/WtMTCJn/w3school.png" alt="w3school" border="0"></a>
 <a href="https://www.microsoft.com/en-in/campaign/azuredeveloperleague/#formMain"><img align="left" width="40px" src="https://i.ibb.co/k2HgSy3/azure.png" alt="azure" border="0"></a>
-<a href="https://ibb.co/7zrY88s"><img width="120px" src="https://i.ibb.co/pP40GGY/codechef.png" alt="codechef" border="0"></a>
+<a href="https://www.codechef.com/"><img width="120px" src="https://i.ibb.co/pP40GGY/codechef.png" alt="codechef" border="0"></a>
 
 <br />
 
