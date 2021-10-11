@@ -12,6 +12,7 @@
 
 <!-- ABOUT ME -->
 ## 🙋‍♂️ I'm a Student
+- ✨ I'm currently studing in B.TECH, Electrical Engineering
 - 👀 I’m interested in WebDeveloping, AppDevelopment & CloudComputing
 - 🌱 I’m currently learning HTML, CSS, JS, Jquery, C & java mostly.
 - 💞️ I’m looking to collaborate on with other content creators & on GIT
