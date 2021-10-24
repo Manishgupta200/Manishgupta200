@@ -161,8 +161,15 @@ or skill level.
     border="0">][instagram]
 [<img align="left" width="30px" src="https://i.ibb.co/fYRyztK/github-gde12c88fc-1920.jpg" alt="github"
     border="0">][github]
-
-
+[<img align="left" width="30px" src="https://i.ibb.co/QrhsD3n/Discord-Logo-Square.png" alt="discord"
+    border="0">][discord]
+[<img align="left" width="30px" src="https://i.ibb.co/kXpY1KT/slack.png" alt="slack"
+    border="0">][slack]
+[<img align="left" width="30px" src="https://i.ibb.co/VQbm9j3/deepsource.png" alt="deepsource"
+    border="0">][deepsource]
+[<img align="left" width="30px" src="https://i.ibb.co/s5bwSWw/dev.png" alt="dev"
+    border="0">][dev]
+    
 <!-- LINKS OF SOCIAL MEDIA -->
 [youtube]: https://youtube.com
 [gmail]: https://gmail.com
@@ -171,3 +178,7 @@ or skill level.
 [twitter]: https://twitter.com
 [instagram]: https://instagram.com
 [github]: https://github.com
+[discord]: https://discord.com/channels/@me
+[slack]: https://slack.com/intl/en-in/
+[deepsource]: https://deepsource.io/gh/Manishgupta200
+[dev]: https://dev.to/
