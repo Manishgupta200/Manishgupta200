@@ -36,7 +36,7 @@
                 border="0"></a>
 <a href='https://hacktoberfest.digitalocean.com/profile'><img align="left" width="35px"
                 src='https://svgshare.com/i/bUA.svg' alt="hacktoberfest" border="0" /></a>
-
+<a href="https://i.ibb.co/g4LNwJX/Dev-Fest-India-2021.jpg"><img align="left" width="35px" src="https://i.ibb.co/my559Wx/devfest2021.png" alt="Dev-Fest-India-2021" border="0"></a>
 <br />
 <h1></h1>
 
@@ -90,17 +90,17 @@
 
 <p align="left">
         <a href="https://console.cloud.google.com/home/dashboard?project=global-gist-316716&pli=1" target="_blank"><img
-                        width="50px" src="https://i.ibb.co/zbdRYLk/google-cloud.png"></a>
+                        width="50px" src="https://i.ibb.co/zbdRYLk/google-cloud.png" border="0"></a>
         <a href="https://www.netlify.com/" target="_blank"><img width="35px"
-                        src="https://i.ibb.co/9bk0bQ8/netlify-logo-png-transparent.png"></a>
+                        src="https://i.ibb.co/9bk0bQ8/netlify-logo-png-transparent.png" border="0"></a>
         <a href='https://hacktoberfest.appwrite.io/' target="_blank"><img width="45px"
-                        src='https://svgshare.com/i/bTE.svg' /></a>
+                        src='https://svgshare.com/i/bTE.svg' border="0" /></a>
         <a href="https://vercel.com/dashboard" target="_blank"><img width="35px"
-                        src="https://i.ibb.co/RhxNRmP/vercel.png"></a>
-        <a href="https://deepsource.io/gh/Manishgupta200" target="_blank"> <img align="left" width="30px"
-                        src="https://i.ibb.co/VQbm9j3/deepsource.png"></a>
+                        src="https://i.ibb.co/RhxNRmP/vercel.png" border="0"></a>
+        <a href="https://deepsource.io/gh/Manishgupta200" target="_blank"> <img width="30px"
+                        src="https://i.ibb.co/VQbm9j3/deepsource.png" border="0"></a>
         <a href="https://firebase.com/" target="_blank"><img width="30px"
-                        src="https://i.ibb.co/K7fk05V/firebase.png"></a>
+                        src="https://i.ibb.co/K7fk05V/firebase.png" border="0"></a>
 </p>
 
 <br />
