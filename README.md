@@ -31,13 +31,12 @@
                 src="https://i.ibb.co/z25P1cF/qwiklab.png" alt="qwiklab" border="0"></a>
 <a href="https://i.ibb.co/x8JWkCh/0001.jpg"><img align="left" width="100px"
                 src="https://i.ibb.co/dLCHb77/Png-Item-145271.png" alt="google-digital-garage" border="0"></a>
-<a href="https://i.ibb.co/1f58ZHz/GCP.jpg"><img align="left" width="70px"
-                src="https://i.ibb.co/2NDQmZd/pngfind-com-google-logo-png-2017-4909861.png" alt="google-cloud-platform"
-                border="0"></a>
 <a href='https://hacktoberfest.digitalocean.com/profile'><img align="left" width="35px"
                 src='https://svgshare.com/i/bUA.svg' alt="hacktoberfest" border="0" /></a>
 <a href="https://i.ibb.co/g4LNwJX/Dev-Fest-India-2021.jpg"><img align="left" width="35px" src="https://i.ibb.co/my559Wx/devfest2021.png" alt="Dev-Fest-India-2021" border="0"></a>
+<a href="https://ibb.co/GP60Myb"><img align="left" width="35px" src="https://i.ibb.co/4Nq7Sz5/30-Days-of-Google-Cloud.png" alt="30-Days-of-Google-Cloud" border="0"></a>
 <a href="https://ibb.co/kgPW1fV"><img align="left" width="80px" src="https://i.ibb.co/mCPM8wr/Learn-to-earn-title-card.png" alt="Learn-to-earn-title-card" border="0"></a>
+<a href="https://i.ibb.co/1f58ZHz/GCP.jpg"><img align="left" width="65px" src="https://i.ibb.co/87kHnd4/Google-Cloud-Ready-Facilitator-Program.jpg" alt="Google-Cloud-Ready-Facilitator-Program" border="0"></a>
 <br />
 <h1></h1>
 
