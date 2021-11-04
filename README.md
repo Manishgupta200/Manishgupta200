@@ -185,6 +185,7 @@ or skill level.
 [<img align="left" width="35px" src="https://i.ibb.co/s18GvTt/youtube-logo-png-2067.png" alt="youtube"
         border="0">][youtube]
 [<img align="left" width="35px" src="https://i.ibb.co/qd6ZdcR/gmail-ge5e92c154-1280.png" alt="gmail" border="0">][gmail]
+[<img align="left" width="30px" src="https://i.ibb.co/BPvV9DX/telegram-computer-icons-icon-design-messaging-apps-download-free-398229.png" alt="telegram" border="0">][telegram]
 [<img align="left" width="30px" src="https://i.ibb.co/mSgFPNg/facebook-gb2bbebe4d-1280.png" alt="facebook"
         border="0">][facebook]
 [<img align="left" width="30px" src="https://i.ibb.co/bzdPqsb/linked-in-g6d7a534e7-1280.png" alt="linked-in"
@@ -203,6 +204,7 @@ or skill level.
 <!-- LINKS OF SOCIAL MEDIA -->
 [youtube]: https://youtube.com
 [gmail]: https://gmail.com
+[telegram]: https://web.telegram.org/k/
 [facebook]: https://facebook.com
 [linkedin]: https://linkedin.com
 [twitter]: https://twitter.com
