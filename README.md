@@ -34,7 +34,7 @@
 <a href='https://hacktoberfest.digitalocean.com/profile'><img align="left" width="35px"
                 src='https://svgshare.com/i/bUA.svg' alt="hacktoberfest" border="0" /></a>
 <a href="https://i.ibb.co/g4LNwJX/Dev-Fest-India-2021.jpg"><img align="left" width="35px" src="https://i.ibb.co/my559Wx/devfest2021.png" alt="Dev-Fest-India-2021" border="0"></a>
-<a href="https://ibb.co/GP60Myb"><img align="left" width="35px" src="https://i.ibb.co/4Nq7Sz5/30-Days-of-Google-Cloud.png" alt="30-Days-of-Google-Cloud" border="0"></a>
+<a href="https://i.ibb.co/bd0kyHD/0001.jpg"><img align="left" width="35px" src="https://i.ibb.co/4Nq7Sz5/30-Days-of-Google-Cloud.png" alt="30-Days-of-Google-Cloud" border="0"></a>
 <a href="https://ibb.co/kgPW1fV"><img align="left" width="80px" src="https://i.ibb.co/mCPM8wr/Learn-to-earn-title-card.png" alt="Learn-to-earn-title-card" border="0"></a>
 <a href="https://i.ibb.co/1f58ZHz/GCP.jpg"><img align="left" width="65px" src="https://i.ibb.co/87kHnd4/Google-Cloud-Ready-Facilitator-Program.jpg" alt="Google-Cloud-Ready-Facilitator-Program" border="0"></a>
 <br />
