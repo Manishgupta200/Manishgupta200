@@ -93,8 +93,8 @@
         <a href="https://console.cloud.google.com/home/dashboard?project=global-gist-316716&pli=1" target="_blank"><img width="50px" src="https://i.ibb.co/CQ1Th4N/google-                               cloud.png" alt="google-cloud" border="0"></a>
         <a href="https://www.netlify.com/" target="_blank"><img width="35px"
                         src="https://i.ibb.co/9bk0bQ8/netlify-logo-png-transparent.png" border="0"></a>
-<!--         <a href='https://hacktoberfest.appwrite.io/' target="_blank"><img width="45px"
-                        src='https://svgshare.com/i/bTE.svg' border="0" /></a> -->
+        <a href='https://hacktoberfest.appwrite.io/' target="_blank"><img width="45px"
+                        src='https://svgshare.com/i/bTE.svg' border="0" /></a>
         <a href="https://vercel.com/dashboard" target="_blank"><img width="35px"
                         src="https://i.ibb.co/RhxNRmP/vercel.png" border="0"></a>
         <a href="https://deepsource.io/gh/Manishgupta200" target="_blank"><img width="60px"
