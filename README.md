@@ -31,8 +31,8 @@
                 src="https://i.ibb.co/z25P1cF/qwiklab.png" alt="qwiklab" border="0"></a>
 <a href="https://i.ibb.co/x8JWkCh/0001.jpg"><img align="left" width="100px"
                 src="https://i.ibb.co/dLCHb77/Png-Item-145271.png" alt="google-digital-garage" border="0"></a>
-<a href='https://hacktoberfest.digitalocean.com/profile'><img align="left" width="35px"
-                src='https://svgshare.com/i/bUA.svg' alt="hacktoberfest" border="0" /></a>
+<!-- <a href='https://hacktoberfest.digitalocean.com/profile'><img align="left" width="35px"
+                src='https://svgshare.com/i/bUA.svg' alt="hacktoberfest" border="0" /></a> -->
 <a href="https://i.ibb.co/g4LNwJX/Dev-Fest-India-2021.jpg"><img align="left" width="35px" src="https://i.ibb.co/my559Wx/devfest2021.png" alt="Dev-Fest-India-2021" border="0"></a>
 <a href="https://ibb.co/r6DZ6v6"><img align="left" width="40px" src="https://i.ibb.co/4ThjTJT/quiklab-diwali.png" alt="quiklab-diwali" border="0"></a>
 <a href="https://i.ibb.co/bd0kyHD/0001.jpg"><img align="left" width="35px" src="https://i.ibb.co/4Nq7Sz5/30-Days-of-Google-Cloud.png" alt="30-Days-of-Google-Cloud" border="0"></a>
@@ -93,8 +93,8 @@
         <a href="https://console.cloud.google.com/home/dashboard?project=global-gist-316716&pli=1" target="_blank"><img width="50px" src="https://i.ibb.co/CQ1Th4N/google-                               cloud.png" alt="google-cloud" border="0"></a>
         <a href="https://www.netlify.com/" target="_blank"><img width="35px"
                         src="https://i.ibb.co/9bk0bQ8/netlify-logo-png-transparent.png" border="0"></a>
-        <a href='https://hacktoberfest.appwrite.io/' target="_blank"><img width="45px"
-                        src='https://svgshare.com/i/bTE.svg' border="0" /></a>
+<!--         <a href='https://hacktoberfest.appwrite.io/' target="_blank"><img width="45px"
+                        src='https://svgshare.com/i/bTE.svg' border="0" /></a> -->
         <a href="https://vercel.com/dashboard" target="_blank"><img width="35px"
                         src="https://i.ibb.co/RhxNRmP/vercel.png" border="0"></a>
         <a href="https://deepsource.io/gh/Manishgupta200" target="_blank"><img width="60px"
