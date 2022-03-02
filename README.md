@@ -200,6 +200,8 @@ or skill level.
 [<img align="left" width="30px" src="https://i.ibb.co/QrhsD3n/Discord-Logo-Square.png" alt="discord"
         border="0">][discord]
 [<img align="left" width="30px" src="https://i.ibb.co/kXpY1KT/slack.png" alt="slack" border="0">][slack]
+[<img align="left" width="35px" src="https://i.ibb.co/WFZ4zpX/medium.png" alt="medium" border="0"></a>][medium]
+[<img align="left" width="35px" src="https://i.ibb.co/dc0mWpg/stack.png" alt="stack" border="0">][stackOverflow]
 [<img align="left" width="70px" src="https://svgshare.com/i/bUU.svg" alt="dev" border="0">][dev]
 
 <!-- LINKS OF SOCIAL MEDIA -->
@@ -213,4 +215,6 @@ or skill level.
 [github]: https://github.com
 [discord]: https://discord.com/channels/@me
 [slack]: https://slack.com/intl/en-in/
+[medium]: https://medium.com/@guptamanis27
+[stackOverflow]: https://stackoverflow.com/users/18349751/manish-gupta
 [dev]: https://dev.to/
