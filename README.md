@@ -209,12 +209,12 @@ or skill level.
 [gmail]: https://gmail.com
 [telegram]: https://web.telegram.org/k/
 [facebook]: https://facebook.com
-[linkedin]: https://linkedin.com
+[linkedin]: https://www.linkedin.com/in/manish-gupta-312405202/
 [twitter]: https://twitter.com
 [instagram]: https://instagram.com
 [github]: https://github.com
 [discord]: https://discord.com/channels/@me
-[slack]: https://slack.com/intl/en-in/
+[slack]: https://app.slack.com/client/T02G3QTQ8V7/C02FR6HPF7D
 [medium]: https://medium.com/@guptamanis27
 [stackOverflow]: https://stackoverflow.com/users/18349751/manish-gupta
-[dev]: https://dev.to/
+[dev]: https://dev.to/manishgupta200
