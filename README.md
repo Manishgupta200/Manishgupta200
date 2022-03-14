@@ -38,7 +38,8 @@
 <a href="https://i.ibb.co/bd0kyHD/0001.jpg"><img align="left" width="35px" src="https://i.ibb.co/4Nq7Sz5/30-Days-of-Google-Cloud.png" alt="30-Days-of-Google-Cloud" border="0"></a>
 <a href="https://ibb.co/kgPW1fV"><img align="left" width="80px" src="https://i.ibb.co/mCPM8wr/Learn-to-earn-title-card.png" alt="Learn-to-earn-title-card" border="0"></a>
 <a href="https://imgbb.com/"><img align="left" width="90px" src="https://i.ibb.co/TmS00VW/download.png" alt="download" border="0"></a>
-<a href="https://i.ibb.co/1f58ZHz/GCP.jpg"><img align="left" width="65px" src="https://i.ibb.co/87kHnd4/Google-Cloud-Ready-Facilitator-Program.jpg" alt="Google-Cloud-Ready-Facilitator-Program" border="0"></a>
+<a href="https://ibb.co/HXFvzZ8"><img align="left" width="100px" src="https://i.ibb.co/YbR9kgs/wow.png" alt="wow" border="0"></a>
+<a href="https://i.ibb.co/GnVV06f/GDSC-WOW-Certificate-of-Participation-Manish-Gupta.jpg"><img align="left" width="65px" src="https://i.ibb.co/87kHnd4/Google-Cloud-Ready-Facilitator-Program.jpg" alt="Google-Cloud-Ready-Facilitator-Program" border="0"></a>
 <br />
 <h1></h1>
 
