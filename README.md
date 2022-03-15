@@ -101,6 +101,7 @@
                         src="https://i.ibb.co/RhxNRmP/vercel.png" border="0"></a>
         <a href="https://deepsource.io/gh/Manishgupta200" target="_blank"><img width="60px"
                         src="https://i.ibb.co/Vgyd8mv/deepsource-1.png" alt="deepsource-1" border="0"></a>
+        <a href="https://ibb.co/hC4KFx6"><img width="40px" src="https://i.ibb.co/HXbrTLS/azure.png" alt="azure" border="0"></a>
         <a href="https://firebase.com/" target="_blank"><img width="30px"
                         src="https://i.ibb.co/K7fk05V/firebase.png" border="0"></a>
 </p>
