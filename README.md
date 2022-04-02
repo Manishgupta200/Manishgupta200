@@ -204,6 +204,7 @@ or skill level.
 [<img align="left" width="30px" src="https://i.ibb.co/kXpY1KT/slack.png" alt="slack" border="0">][slack]
 [<img align="left" width="35px" src="https://i.ibb.co/WFZ4zpX/medium.png" alt="medium" border="0"></a>][medium]
 [<img align="left" width="35px" src="https://i.ibb.co/dc0mWpg/stack.png" alt="stack" border="0">][stackOverflow]
+[<img align="left" width="35px" src="https://i.ibb.co/gvLrqLH/devpost.png" alt="devpost" border="0">][devpost]
 [<img align="left" width="70px" src="https://svgshare.com/i/bUU.svg" alt="dev" border="0">][dev]
 
 <!-- LINKS OF SOCIAL MEDIA -->
@@ -219,4 +220,5 @@ or skill level.
 [slack]: https://app.slack.com/client/T02G3QTQ8V7/C02FR6HPF7D
 [medium]: https://medium.com/@guptamanis27
 [stackOverflow]: https://stackoverflow.com/users/18349751/manish-gupta
+[devpost]: https://devpost.com/Manishgupta200?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav
 [dev]: https://dev.to/manishgupta200
