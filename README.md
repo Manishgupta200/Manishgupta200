@@ -41,6 +41,7 @@
 <a href="https://i.ibb.co/GnVV06f/GDSC-WOW-Certificate-of-Participation-Manish-Gupta.jpg"><img align="left" width="100px" src="https://i.ibb.co/YbR9kgs/wow.png" alt="wow" border="0"></a>
 <a href="https://i.ibb.co/3T20Fd2/etreeswag.jpg"><img align="left" width="40px" src="https://i.ibb.co/Yp3g7Xp/chomatcher.jpg" alt="chomatcher" border="0"></a>
 <a href="https://i.ibb.co/1f58ZHz/GCP.jpg"><img align="left" width="65px" src="https://i.ibb.co/87kHnd4/Google-Cloud-Ready-Facilitator-Program.jpg" alt="Google-Cloud-Ready-Facilitator-Program" border="0"></a>
+<a href="https://i.ibb.co/rkx0WHG/fossassia.jpg"><img align="left" width="80px" src="https://i.ibb.co/brMcfrN/fossassia.png" alt="fossassia" border="0"></a>
 <br />
 <h1></h1>
 
