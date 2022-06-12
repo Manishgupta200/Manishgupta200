@@ -1,6 +1,5 @@
 <!-- INTRO -->
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"
-                width="30px">, I'm Manish Gupta</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Manish Gupta</h1>
 
 <p align="center"><a href="https://github.com/Meghna-DAS/github-profile-views-counter">
                 <img width="150px" src="https://komarev.com/ghpvc/?username=Manishgupta200">
