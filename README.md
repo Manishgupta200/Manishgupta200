@@ -13,6 +13,17 @@
 <!-- <p align="center"><img src="http://i.stack.imgur.com/SBv4T.gif" alt="this slowpoke moves" width="250" /></p> -->
 
 <!-- ABOUT ME -->
+<div>
+  <a href="https://auth.geeksforgeeks.org/user/manishgupta200">GFG</a>
+  <a href="https://leetcode.com/Manishgupta200/">LeetCode</a>
+  <a href="https://www.codingninjas.com/studio/profile/manishgupta200">CodeStudio</a>
+</div>
+
+<br />
+<br />
+<hr />
+
+<!-- ABOUT ME -->
 ## 🙋‍♂️ I'm a Student
 - ✨ I'm currently studing in B.TECH, Electrical Engineering
 - 🧑‍💻 I'm Lead at Google Developer Student Clubs 
@@ -139,11 +150,6 @@ or skill level.
 <br />
 <br />
 
-<a href="https://github.com/Manishgupta200/github-readme-activity-graph"><img alt="Manish Gupta's Activity Graph"
-                src="https://activity-graph.herokuapp.com/graph?username=Manishgupta200&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br />
-<br />
 
 <!-- PROGRAMMING LEARNING PLATFORM -->
 ### Learning Platform:
