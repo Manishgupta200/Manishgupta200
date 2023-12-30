@@ -18,6 +18,12 @@
   <a href="https://leetcode.com/Manishgupta200/">LeetCode</a>
   <a href="https://www.codingninjas.com/studio/profile/manishgupta200">CodeStudio</a>
 </div>
+<br/>
+<div>
+  Email: <a href="mailto:guptamanis27@gmail.com">guptamanis27@gmail.com</a>
+  <br/>
+  Phone: <a href="tel:+919800687019">+91 9800687019</a>
+</div>
 
 <br />
 <br />
