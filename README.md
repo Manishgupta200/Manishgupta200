@@ -16,8 +16,8 @@
 ## 🙋‍♂️ I'm a Student
 - ✨ I'm currently studing in B.TECH, Electrical Engineering
 - 🧑‍💻 I'm Lead at Google Developer Student Clubs 
-- 👀 I’m interested in WebDeveloping, AppDevelopment & CloudComputing
-- 🌱 I’m currently learning HTML, CSS, JS, Jquery, C & Python mostly.
+- 👀 I’m interested and experiencing in Full Stack Web-Development
+- 🌱 I’m currently learning HTML, CSS, JS, Jquery, React, Node, C++ mostly.
 - 💞️ I’m looking to collaborate on with other content creators & on GIT
 - ⚡ Fun fact: I love to explore things much better
 - 📫 Reach me through email: guptamanis27@gmail.com
